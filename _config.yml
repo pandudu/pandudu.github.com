@@ -1,0 +1,8 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://pandudu.girhub.com
+author: pandudu
+pygments: true
+safe: true
+paginate: 16
+excerpt_separator: ""
